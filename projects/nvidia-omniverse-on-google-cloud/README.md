@@ -57,6 +57,6 @@ following virtual workstations on Compute Engine:
 - [NVIDIA RTX Virtual Workstation: G2 machine family (L4 GPUs), Ubuntu 22.04](./g2-development-workstation/ubuntu-22.04/README.md)
 
 ## Remote Visualization Options
-- Setup ThinLinc to support 3D accelerated remote desktop connections: [GCP_NVIDIA_Isaac_Sim_Thinlinc](https://github.com/GoogleCloudPlatform/scientific-computing-examples/tree/main/remote%20visualization/GCP_NVIDIA_Isaac_Sim_Thinlinc).
+ThinLinc by Cendio - (NVIDIA recommanded w [Community licenses](https://www.cendio.com/thinlinc/buy-pricing/free-usage/)) Setup ThinLinc to support NVIDIA Omniverse workstation instruction: [GCP_NVIDIA_Isaac_Sim_Thinlinc](https://github.com/GoogleCloudPlatform/scientific-computing-examples/tree/main/remote%20visualization/GCP_NVIDIA_Isaac_Sim_Thinlinc).
 
-- Setup Chrome Remote Desktop to support 3D accelerated remote desktop connections: [GCP_NVIDIA_Isaac_Sim_CRD](https://github.com/GoogleCloudPlatform/scientific-computing-examples/tree/main/remote%20visualization/GCP_NVIDIA_Isaac_Sim_CRD).
+Chrome Remote Desktop - (GCP 1st party solution / Free) Setup Chrome Remote Desktop to support NVIDIA Omniverse workstation instruction: [GCP_NVIDIA_Isaac_Sim_CRD](https://github.com/GoogleCloudPlatform/scientific-computing-examples/tree/main/remote%20visualization/GCP_NVIDIA_Isaac_Sim_CRD).
